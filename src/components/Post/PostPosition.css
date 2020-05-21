@@ -1,0 +1,14 @@
+.Post_Foto--position{
+    height: 5em;
+    width: 5em;
+    float: left;
+}
+
+.Post__p{
+    display: block;
+    height: 5em;
+}
+
+.Post__textarea--position{
+    height: 100%
+}

@@ -1,0 +1,10 @@
+.SideBar_ItemMenu--position{
+    width: 4em;
+    height: 4em;
+    display: inline-block;
+}
+
+.SideBar{
+    margin-left: auto;
+    margin-right: auto;
+}
